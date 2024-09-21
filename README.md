@@ -17,7 +17,7 @@ requests~=2.28.2
 2. **Создаем новый проект в своем редакторе кода.**
 
 3. **Клонируем проект:**
- > ```git cline https://github.com/EnDeVeRo/telegram-template.git```
+ > ```git clone https://github.com/EnDeVeRo/telegram-template.git```
 
 4. **Устанавливаем зависимости:**
  > Poetry - `poetry install`
